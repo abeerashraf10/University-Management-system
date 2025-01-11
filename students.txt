@@ -1,0 +1,120 @@
+ID: 17
+Name: Aashir
+Class: BCS-1A
+Grade:60 Grade:58 Grade:26 Grade:50 Grade:53 
+CGPA: 
+1
+ID: 18
+Name: Mohsin
+Class: BCS-1A
+Grade:57 Grade:46 Grade:53 Grade:60 Grade:71 
+CGPA: 
+1.4
+ID: 19
+Name: Haris
+Class: BCS-1A
+Grade:79 Grade:97 Grade:85 Grade:81 Grade:102 
+CGPA: 
+3.4
+ID: 20
+Name: Ahmad
+Class: BCS-1A
+Grade:57 Grade:61 Grade:63 Grade:57 Grade:57 
+CGPA: 
+1.4
+ID: 1
+Name: Abeer
+Class: BCS-1A
+Grade:96 Grade:91 Grade:85 Grade:84 Grade:90 
+CGPA: 
+3.6
+ID: 2
+Name: Wania
+Class: BCS-1A
+Grade:69 Grade:64 Grade:67 Grade:86 Grade:82 
+CGPA: 
+2.4
+ID: 3
+Name: Nouf
+Class: BCS-1A
+Grade:47 Grade:67 Grade:68 Grade:51 Grade:88 
+CGPA: 
+1.6
+ID: 4
+Name: Ahmar
+Class: BCS-1A
+Grade:66 Grade:65 Grade:68 Grade:63 Grade:55 
+CGPA: 
+1.8
+ID: 5
+Name: Furqan
+Class: BCS-1A
+Grade:79 Grade:84 Grade:74 Grade:75 Grade:61 
+CGPA: 
+2.8
+ID: 6
+Name: Areeha
+Class: BCS-1A
+Grade:58 Grade:76 Grade:53 Grade:78 Grade:73 
+CGPA: 
+2.2
+ID: 7
+Name: Teeman
+Class: BCS-1A
+Grade:73 Grade:78 Grade:81 Grade:64 Grade:89 
+CGPA: 
+2.8
+ID: 8
+Name: Fatima
+Class: BCS-1A
+Grade:65 Grade:70 Grade:73 Grade:71 Grade:65 
+CGPA: 
+2.6
+ID: 9
+Name: Khansa
+Class: BCS-1A
+Grade:92 Grade:95 Grade:94 Grade:89 Grade:86 
+CGPA: 
+3.6
+ID: 10
+Name: Ayesha
+Class: BCS-1A
+Grade:79 Grade:78 Grade:70 Grade:62 Grade:83 
+CGPA: 
+2.8
+ID: 11
+Name: Areeba
+Class: BCS-1A
+Grade:81 Grade:81 Grade:74 Grade:87 Grade:86 
+CGPA: 
+3
+ID: 12
+Name: Tayba
+Class: BCS-1A
+Grade:86 Grade:86 Grade:82 Grade:70 Grade:63 
+CGPA: 
+2.8
+ID: 13
+Name: Sheeza
+Class: BCS-1A
+Grade:79 Grade:75 Grade:80 Grade:71 Grade:64 
+CGPA: 
+2.8
+ID: 14
+Name: Shaiza
+Class: BCS-1A
+Grade:79 Grade:84 Grade:87 Grade:79 Grade:59 
+CGPA: 
+2.6
+ID: 15
+Name: Anas
+Class: BCS-1A
+Grade:45 Grade:43 Grade:59 Grade:55 Grade:53 
+CGPA: 
+0.6
+ID: 16
+Name: Coco
+Class: BCS-1A
+Grade:76 Grade:72 Grade:72 Grade:68 Grade:69 
+CGPA: 
+2.6
